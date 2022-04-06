@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# mobile11ty
+----------------------------------------------
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/mobile11ty/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![eleventy mobile11ty template themes](mobile11ty.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Documentation : [https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html](https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html)
 
-```markdown
-Syntax highlighted code block
+Test Drive Demo : [https://mobile11ty.pages.dev](https://mobile11ty.pages.dev)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Developer : [eleventy web dev](https://eleventy.web.app/)
 
-1. Numbered
-2. List
+---------------------------------
 
-**Bold** and _Italic_ and `Code` text
+Display
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![eleventy mobile11ty template themes](desktop.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/mobile11ty/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Desktop version
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![eleventy mobile11ty template themes](mobile.png)
+
+
+Mobile version 
+
+---------------------------------
+
+
+Documentation : [https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html](https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html)
+
+Test Drive Demo : [https://mobile11ty.pages.dev](https://mobile11ty.pages.dev)
+
+
+Developer : [eleventy web dev](https://eleventy.web.app/)
