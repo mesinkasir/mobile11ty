@@ -3,12 +3,12 @@
   "title": "Mobile11ty",
   "url": "https://mobile11ty.pages.dev/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "A new eleventy generation for build mobile web and android apps all in one",
   "icon": "https://eleventy.web.app/img/webcepat.png",
   "logo": "https://eleventy.web.app/img/webcepat.png",
   "cover": "https://eleventy.web.app/img/webcepat.png",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "A new eleventy generation for build mobile web and android apps all in one",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://mobile11ty.pages.dev/"
