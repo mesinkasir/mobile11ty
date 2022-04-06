@@ -25,7 +25,7 @@ layout: layouts/post.njk
 
 + or clone repo with run `git clone https://github.com/mesinkasir/mobile11ty.git`
 
-+Now you can open source code project , and we can install this bunde mobile web template with run `npm install`
++ Now you can open source code project , and we can install this bunde mobile web template with run `npm install`
 
 + Then you can run `eleventy serve` or use `npm run serve` optional you can use `npx @11ty/eleventy --serve`
 
