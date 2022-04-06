@@ -28,16 +28,6 @@ Desktop version
 
 Mobile version 
 
----------------------------------
-
-
-Documentation : [https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html](https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html)
-
-Test Drive Demo : [https://mobile11ty.pages.dev](https://mobile11ty.pages.dev)
-
-
-Developer : [eleventy.web.app](https://eleventy.web.app/)
-
 ----------------------
 
 Android Run
@@ -51,3 +41,14 @@ For test demo you can donwload this apk on your smartphone [download android apk
 + Open Android App
 
 ![install android 11ty](android/android11ty.jpg)
+
+---------------------------------
+
+
+Documentation : [https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html](https://www.hockeycomputindo.com/2022/04/new-mobile11ty-eleventy-build-website.html)
+
+Test Drive Demo : [https://mobile11ty.pages.dev](https://mobile11ty.pages.dev)
+
+
+Developer : [eleventy.web.app](https://eleventy.web.app/)
+
