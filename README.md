@@ -37,3 +37,17 @@ Test Drive Demo : [https://mobile11ty.pages.dev](https://mobile11ty.pages.dev)
 
 
 Developer : [eleventy.web.app](https://eleventy.web.app/)
+
+----------------------
+
+Android Run
+
+![install android 11ty](android/11tyandroid.jpg)
+
+For test demo you can donwload this apk on your smartphone [download android apk here →](https://github.com/mesinkasir/mobile11ty/raw/main/android/mobile11ty.apk)
++ Download android apk
++ Change app permissions on your Android phone
++ Run Install
++ Open Android App
+
+![install android 11ty](android/android11ty.jpg)
