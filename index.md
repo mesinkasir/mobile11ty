@@ -10,7 +10,7 @@ Documentation : [https://www.hockeycomputindo.com/2022/04/new-mobile11ty-elevent
 Test Drive Demo : [https://mobile11ty.pages.dev](https://mobile11ty.pages.dev)
 
 
-Developer : [eleventy web dev](https://eleventy.web.app/)
+Developer : [https://eleventy.web.app](https://eleventy.web.app/)
 
 ---------------------------------
 
@@ -28,6 +28,20 @@ Desktop version
 
 Mobile version 
 
+----------------------
+
+Android Run
+
+![install android 11ty](11tyandroid.jpg)
+
+For test demo you can donwload this apk on your smartphone [download android apk here →](https://github.com/mesinkasir/mobile11ty/raw/main/android/mobile11ty.apk)
++ Download android apk
++ Change app permissions on your Android phone
++ Run Install
++ Open Android App
+
+![install android 11ty](android11ty.jpg)
+
 ---------------------------------
 
 
@@ -36,4 +50,5 @@ Documentation : [https://www.hockeycomputindo.com/2022/04/new-mobile11ty-elevent
 Test Drive Demo : [https://mobile11ty.pages.dev](https://mobile11ty.pages.dev)
 
 
-Developer : [eleventy web dev](https://eleventy.web.app/)
+Developer : [https://eleventy.web.app](https://eleventy.web.app/)
+
