@@ -1,8 +1,8 @@
-<ion-grid><ion-row><ion-col size="12" size-sm><ion-card><div><ion-img src="{{metadata.section.cover}}"></ion-img></div></ion-card></ion-col></ion-row></ion-grid>
+<ion-grid><ion-row><ion-col size="12" size-sm><ion-card><div><ion-img alt="{{metadata.title}}" src="{{metadata.section.cover}}"></ion-img></div></ion-card></ion-col></ion-row></ion-grid>
 <ion-grid><ion-row>{{ content | safe }}
     
 <ion-col size="12" size-sm><div><ion-card color="dark"><center><ion-card-header><ion-avatar>
-<img src="{{metadata.section.icon}}" width="80" alt=""/></ion-avatar>
+<img alt="{{metadata.title}}" src="{{metadata.section.icon}}" width="80" alt=""/></ion-avatar>
 <ion-card-subtitle><p>{{metadata.section.slogan}}</p></ion-card-subtitle>
 <ion-card-title>{{metadata.section.title}}</ion-card-title>
 <ion-button color="light" fill="outline" href="https://app.midtrans.com/payment-links/1647457988722">Donation →</ion-button>
