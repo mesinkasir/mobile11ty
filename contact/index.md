@@ -24,4 +24,4 @@ eleventyNavigation:
 
 If you need help nd information so  you can contact mobile11ty developer
 
-<ion-button href="https://wa.me/6285646104747" color="success" size="large">Whatsapp</ion-button> <ion-button href="tel:+62895339403223" color="primary" size="large">Call</ion-button> <ion-button color="danger" href="mailto:axcora@gmail.com" size="large">Email</ion-button>
+<ion-button href="https://wa.me/62895339403223" color="success" size="large">Whatsapp</ion-button> <ion-button href="tel:+62895339403223" color="primary" size="large">Call</ion-button> <ion-button color="danger" href="mailto:axcora@gmail.com" size="large">Email</ion-button>
